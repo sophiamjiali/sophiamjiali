@@ -10,13 +10,10 @@ My research interests largely revolve around multi-modal biomedical data integra
 
 ## Current Work
 
-**MethylTrain: a Python package for DNA methylation data engineering for machine learning**
-
-**MethylVAE: generative modeling of tumour histology from differential methylation**
-
-**WS-IMC Workflows: toolkit for computational analysis of whole-slide imaging mass cytometry data**
-
-**UofThrifts: second-hand marketplace for University of Toronto students**
+- **MethylTrain:** a Python package for DNA methylation data engineering for machine learning
+- **MethylVAE:** generative modeling of tumour histology from differential methylation
+- **WS-IMC Workflows:** toolkit for computational analysis of whole-slide imaging mass cytometry data
+- **UofThrifts:** second-hand marketplace for University of Toronto students
 
 ## Contact Me
 
