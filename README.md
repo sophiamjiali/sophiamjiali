@@ -1,7 +1,5 @@
 ## Sophia Mengjia Li, MSc (Candidate), HBSc
 
-## About Me
-
 I am a first year candidate in the Master of Science in Applied Computing (MScAC) program under the Artificial Intelligence in Healthcare focus at the University of Toronto. 
 
 I graduated with high distinction from the University of Toronto, receiving an Honours Bachelor of Science (HBsc) in Bioinformatics & Computational Biology (Specialist) and Computer Science (Major) with a cumulative GPA of 3.9/4.0. I was a Dean's List Scholar for each eligible year and received the B. Arthur Bensley Scholarship in Life Sciences from the Department of Cell & Systems Biology.
