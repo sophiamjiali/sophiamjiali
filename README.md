@@ -4,14 +4,13 @@ I am a first year candidate in the Master of Science in Applied Computing (MScAC
 
 I graduated with high distinction from the University of Toronto, receiving an Honours Bachelor of Science in Bioinformatics & Computational Biology (Specialist) and Computer Science (Major) with a cumulative GPA of 3.9/4.0. I was a Dean's List Scholar for each eligible year and received the B. Arthur Bensley Scholarship in Life Sciences from the Department of Cell & Systems Biology. 
 
-**Status:** looking for new graduate job opportunities in SWE/MLE, open to deferring MScAC program
-
 ### Research Interests
 
 My research interests largely revolve around multi-modal biomedical data integration and medical imaging, particularly in developing methodological frameworks for complex, high-dimensional data. I am broadly interested in deep learning and generative approaches in Computer Science, especially as they apply to translational biomedicine.
 
 ## Current Work
 
+- **chip-stroma-analysis:** vessel segmentation and fibroblast quantification of αSMA IHC staining
 - **MethylTrain:** a Python package for DNA methylation data engineering for machine learning
 - **MethylVAE:** generative modeling of tumour histology from differential methylation
 - **WS-IMC Workflows:** toolkit for computational analysis of whole-slide imaging mass cytometry data
