@@ -26,4 +26,8 @@ My research interests largely revolve around multi-modal biomedical data integra
   <a href="mailto:sophiamjia.li@mail.utoronto.ca" target="_blank">
     <img src="https://img.shields.io/badge/Email-sophiamjia.li%40mail.utoronto.ca-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>
   </a>
+
+  <a href="mailto:sophiamjiali@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sophiamjiali%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </div>
