@@ -19,8 +19,15 @@ My research interests largely revolve around multi-modal biomedical data integra
 ## Contact Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank"><img src="https://img.shields.io/badge/-Sophia%20Li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:sophiamjiali@gmail.com"><img src="https://img.shields.io/badge/-sophiamjiali@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</div>
-    <a target="_blank" href="mailto:sophiamjia.li@mail.utoronto.ca"><img src="https://img.shields.io/badge/-sophiamjia.li@mail.utoronto.ca-D14836?style=flat&logo=Outlook&logoColor=blue"/></a>
+    <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank">
+        <img src="https://img.shields.io/badge/-Sophia%20Li-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+
+    <a href="mailto:sophiamjiali@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-sophiamjiali%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+
+    <a href="mailto:sophiamjia.li@mail.utoronto.ca" target="_blank">
+        <img src="https://img.shields.io/badge/-sophiamjia.li%40mail.utoronto.ca-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>
+    </a>
 </div>
