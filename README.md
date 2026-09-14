@@ -19,16 +19,16 @@ My research interests largely revolve around multi-modal biomedical data integra
 ## Contact Me
 <div align="center">
   <a href="https://www.cs.toronto.edu/~sophiali/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="Personal Website">
+    <img src="https://img.shields.io/badge/Personal_Website-0077B5?style=flat-square" alt="Personal Website">
   </a>
   <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
   </a>
   <a href="mailto:sophiali@cs.toronto.edu>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0077B5?style=flat-square" alt="Email">
   </a>
   <a href="https://scholar.google.ca/citations?user=QFvFucAAAAAJ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google_Scholar-0077B5?style=flat-square" alt="Google Scholar">
   </a>
 
 </div>
