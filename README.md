@@ -17,19 +17,6 @@ My research interests largely revolve around multi-modal biomedical data integra
 - **UofThrifts:** second-hand marketplace for University of Toronto students
 
 ## Contact Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank"
-     style="display:inline-block; padding:6px 12px; border:1px solid #0077b5; border-radius:6px; text-decoration:none; color:#0077b5;">
-    LinkedIn
-  </a>
-
-  <a href="mailto:sophiamjia.li@mail.utoronto.ca"
-     style="display:inline-block; padding:6px 12px; border:1px solid #0078D4; border-radius:6px; text-decoration:none; color:#0078D4;">
-    UofT Email
-  </a>
-
-  <a href="mailto:sophiamjiali@gmail.com"
-     style="display:inline-block; padding:6px 12px; border:1px solid #0078D4; border-radius:6px; text-decoration:none; color:#0078D4;">
-    Personal Email
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
+</a>
