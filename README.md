@@ -24,7 +24,7 @@ My research interests largely revolve around multi-modal biomedical data integra
   <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
   </a>
-  <a href="mailto:sophiali@cs.toronto.edu>
+  <a href="mailto:sophiali@cs.toronto.edu">
     <img src="https://img.shields.io/badge/Email-0077B5?style=flat-square" alt="Email">
   </a>
   <a href="https://scholar.google.ca/citations?user=QFvFucAAAAAJ">
