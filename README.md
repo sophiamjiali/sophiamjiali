@@ -18,10 +18,6 @@ My research interests largely revolve around multi-modal biomedical data integra
 
 ## Contact Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank">LinkedIn</a>
-
-  <a href="mailto:sophiamjia.li@mail.utoronto.ca">UofT Email</a>
-
-  <a href="mailto:sophiamjiali@gmail.com">Personal Email</a>
-</div>
+<a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" class="button">LinkedIn</a>
+<a href="mailto:sophiamjia.li@mail.utoronto.ca" class="button">UofT Email</a>
+<a href="mailto:sophiamjiali@gmail.com" class="button">Personal Email</a>
