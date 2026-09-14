@@ -27,6 +27,6 @@ My research interests largely revolve around multi-modal biomedical data integra
   </a>
 
   <a href="mailto:sophiamjiali@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Personal Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0078D5?style=flat&logo=gmail&logoColor=white" alt="Personal Email"/>
   </a>
 </div>
