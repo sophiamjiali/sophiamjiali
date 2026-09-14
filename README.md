@@ -18,15 +18,18 @@ My research interests largely revolve around multi-modal biomedical data integra
 
 ## Contact Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sophia-li-9a9b931b7/" target="_blank"
+     style="display:inline-block; padding:6px 12px; border:1px solid #0077b5; border-radius:6px; text-decoration:none; color:#0077b5;">
+    LinkedIn
   </a>
 
-  <a href="mailto:sophiamjia.li@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/UofT_Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="UofT Email"/>
+  <a href="mailto:sophiamjia.li@mail.utoronto.ca"
+     style="display:inline-block; padding:6px 12px; border:1px solid #0078D4; border-radius:6px; text-decoration:none; color:#0078D4;">
+    UofT Email
   </a>
 
-  <a href="mailto:sophiamjiali@gmail.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D5?style=flat&logo=gmail&logoColor=white" alt="Personal Email"/>
+  <a href="mailto:sophiamjiali@gmail.com"
+     style="display:inline-block; padding:6px 12px; border:1px solid #0078D4; border-radius:6px; text-decoration:none; color:#0078D4;">
+    Personal Email
   </a>
 </div>
